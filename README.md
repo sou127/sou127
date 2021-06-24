@@ -5,7 +5,7 @@
 My Website: https://saurabhsharma.codes/ <br>
 Facebook: https://www.facebook.com/srbhshrm/ <br>
 LinkedIn: https://www.linkedin.com/in/srbhshrm/ <br>
-Email: <a href="mailto:ci19sharma@g.kumamoto-nct.ac.jp"></a> <br>
+Email: <a href="mailto:ci19sharma@g.kumamoto-nct.ac.jp">ci19sharma@g.kumamoto-nct.ac.jp</a> <br>
 Instagram: https://www.instagram.com/srbh.shrma/ <br>
 
 <!---
