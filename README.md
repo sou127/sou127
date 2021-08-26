@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saurabh Sharma (Sou), a third year student at Kumamoto National Institute of Technology
+- 👋 Hi, I’m Saurabh, a third year student at Kumamoto National Institute of Technology
 - 👀 I’m interested in Machine Learning and Competitive Coding
 - 🌱 I’m currently learning to swim
 - 📫 Reach me on <br>
