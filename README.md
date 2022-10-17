@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurabh, a third year student at Kumamoto National Institute of Technology
-- 👀 Search Infrastructure Engineering Intern @ ZOZO,Inc
+- 👀 Interested in Backend Development and Machine Learning
 - 🌱 I’m currently learning to swim
 - 📫 Reach me on <br>
 [Instagram](https://instagram.com/srbh.shrma) </br>
