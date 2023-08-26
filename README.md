@@ -5,7 +5,7 @@
 [Instagram](https://instagram.com/srbh.shrma) </br>
 [LinkedIn](https://www.linkedin.com/in/sou127/) </br>
 [Twitter](https://twitter.com/sourabu83) </br>
-[My Website](https://saurabhsharma.codes/) </br>
+[My Website](https://sou127.github.io/) </br>
 
 <!---
 sou127/sou127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
