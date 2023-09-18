@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saurabh, a third year student at Kumamoto National Institute of Technology
+- 👋 Hi, I’m Saurabh, a fifth year student at Kumamoto National Institute of Technology
 - 👀 Interested in Backend Development and Machine Learning
 - 🌱 I’m currently learning to swim
 - 📫 Reach me on <br>
