@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Saurabh, a fifth year student at Kumamoto National Institute of Technology
+- 👋 Hi, I’m Saurabh, a 3rd year undergraduate student @ Chiba University
 - 👀 Interested in Backend Development and Machine Learning
 - 🌱 I’m currently learning to swim
 - 📫 Reach me on <br>
-[Instagram](https://instagram.com/srbh.shrma) </br>
 [LinkedIn](https://www.linkedin.com/in/sou127/) </br>
 [Twitter](https://twitter.com/sourabu83) </br>
 [My Website](https://sou127.github.io/) </br>
